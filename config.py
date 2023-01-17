@@ -1,3 +1,7 @@
+# This file contains all the global configuration variables
+import pygame       # For general use in other files
+
+# Properties of display:
 HEIGHT = 720
 WIDTH = 1080
 FPS = 60
